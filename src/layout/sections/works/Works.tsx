@@ -76,8 +76,8 @@ const worksData = [
         text: "Modern, responsive landing page showcasing React expertise and projects. Built with cutting-edge frontend technologies for optimal performance and user experience.",
         type: "landing",
         id: 4,
-        linkDemo: "#",
-        linkCode: "#"
+        linkDemo: "https://luckyf1re.github.io/portfolio-start-project-vite-main/",
+        linkCode: "https://github.com/LuckyF1re/portfolio-start-project-vite-main"
     },
 ]
 
